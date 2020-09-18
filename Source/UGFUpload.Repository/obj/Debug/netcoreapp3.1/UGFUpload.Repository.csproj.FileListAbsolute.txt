@@ -1,0 +1,12 @@
+D:\RPC\UGF\Source\UGFUpload.Repository\bin\Debug\netcoreapp3.1\UGFUpload.Repository.deps.json
+D:\RPC\UGF\Source\UGFUpload.Repository\bin\Debug\netcoreapp3.1\UGFUpload.Repository.dll
+D:\RPC\UGF\Source\UGFUpload.Repository\obj\Debug\netcoreapp3.1\UGFUpload.Repository.csprojAssemblyReference.cache
+D:\RPC\UGF\Source\UGFUpload.Repository\obj\Debug\netcoreapp3.1\UGFUpload.Repository.AssemblyInfoInputs.cache
+D:\RPC\UGF\Source\UGFUpload.Repository\obj\Debug\netcoreapp3.1\UGFUpload.Repository.AssemblyInfo.cs
+D:\RPC\UGF\Source\UGFUpload.Repository\bin\Debug\netcoreapp3.1\UGFUpload.Repository.runtimeconfig.json
+D:\RPC\UGF\Source\UGFUpload.Repository\bin\Debug\netcoreapp3.1\UGFUpload.Repository.runtimeconfig.dev.json
+D:\RPC\UGF\Source\UGFUpload.Repository\obj\Debug\netcoreapp3.1\UGFUpload.Repository.genruntimeconfig.cache
+D:\RPC\UGF\Source\UGFUpload.Repository\bin\Debug\netcoreapp3.1\UGFUpload.Repository.pdb
+D:\RPC\UGF\Source\UGFUpload.Repository\obj\Debug\netcoreapp3.1\UGFUpload.Repository.dll
+D:\RPC\UGF\Source\UGFUpload.Repository\obj\Debug\netcoreapp3.1\UGFUpload.Repository.pdb
+D:\RPC\UGF\Source\UGFUpload.Repository\obj\Debug\netcoreapp3.1\UGFUpload.Repository.csproj.CoreCompileInputs.cache

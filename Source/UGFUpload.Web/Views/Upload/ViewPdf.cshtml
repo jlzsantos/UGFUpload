@@ -1,0 +1,39 @@
+﻿@model List<UGFUpload.Web.Models.Upload.CompareFileInfoViewModel>
+
+@{
+    ViewData["Title"] = "Comparação de Arquivos";
+    Layout = "~/Views/Shared/_PdfLayout.cshtml";
+}
+
+<div class="text-center">
+    <br />
+    <h4>Comparação de Arquivos</h4>
+    <br />
+    <hr />
+    <br />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Operador</th>
+                <th>Valor</th>
+                <th>Data de execução</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Operator)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.OperatorValue)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ExecutionDate)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
